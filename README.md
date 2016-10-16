@@ -1,3 +1,1 @@
-# days-in-ChongQing
-Graduate life at ChongQing   
-This repository tells about my Gradute life at Chongqing.
+# 写点小感悟  
